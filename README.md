@@ -20,7 +20,7 @@ Currently focused on:
 - 🌐 **Web3** and blockchain solutions
 - 🎨 **Landing pages** and high-conversion websites
 
-Based in **Boituva/SP, Brazil** 🇧🇷 — building for the world.
+Based in **Brazil** 🇧🇷 — building for the world.
 
 ---
 
@@ -104,7 +104,7 @@ Instagram data extraction tool for market research, lead generation, and competi
   <a href="https://www.instagram.com/thiagogual/">Instagram</a>
 </p>
 <p align="center">
-  Boituva/SP - Brazil 🇧🇷
+  Brazil 🇧🇷
 </p>
 
 ---
