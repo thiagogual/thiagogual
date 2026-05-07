@@ -1,16 +1,113 @@
-## Hi there 👋
+# Hi, I'm Thiago Ferreira Gualberto 👋
 
-<!--
-**thiagogual/thiagogual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | GenAI • Automation • Web3 • APIs**
 
-Here are some ideas to get you started:
+> "Turning complex problems into elegant, scalable solutions."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Gualberto-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-gualberto-8210b630)
+[![Website](https://img.shields.io/badge/Website-tfgone.com.br-00C7B7?style=flat&logo=netlify&logoColor=white)](https://tfgone.com.br)
+[![Email](https://img.shields.io/badge/Email-thiago.f.gualberto@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiago.f.gualberto@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2015%2099135--3765-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5515991353765)
+
+---
+
+## 🚀 About Me
+
+I'm a **Full Stack Developer** and **Founder of TFG ONE** with **15+ years of experience** spanning sales, customer relations, operations, entertainment/TV, financial markets, e-commerce, and tech consulting.
+
+Currently focused on:
+- 🤖 **Generative AI** applications and integrations
+- ⚡ **Automation** workflows and API orchestration  
+- 🌐 **Web3** and blockchain solutions
+- 🎨 **Landing pages** and high-conversion websites
+
+Based in **Boituva/SP, Brazil** 🇧🇷 — building for the world.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**DevOps & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**AI & Automation:**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+
+---
+
+## ⭐ Featured Projects
+
+### 🎬 [DevFlix](https://github.com/thiagogual/devflix)
+Netflix-style streaming interface for developers. Movie catalog, search, categories, and player.
+> *React • Vite • TypeScript • TailwindCSS*
+
+### 📸 [IG Scraper](https://github.com/thiagogual/ig-scraper)
+Instagram data extraction tool for market research, lead generation, and competitive analysis.
+> *TypeScript • Node.js • Data Scraping*
+
+---
+
+## 💼 Experience Highlights
+
+| Role | Company | Period |
+|------|---------|--------|
+| **Founder & Full Stack Developer** | TFG ONE | 2023 - Present |
+| **MBA Software Architecture** | DevClub | 2024 - 2026 |
+| **Commercial Director / Operations** | Various Industries | 2004 - 2023 |
+
+**Education:**
+- 🎓 **MBA Software Architecture & Full Stack Engineering** — DevClub (2024-2026)
+- 🎨 **Graphic Design** — UNIP (2012)
+
+---
+
+## 🌎 Languages
+
+- 🇧🇷 **Portuguese** — Native
+- 🇺🇸 **English** — Conversational/Technical
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** thiago.f.gualberto@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/thiago-gualberto-8210b630](https://linkedin.com/in/thiago-gualberto-8210b630)
+- 🌐 **Website:** [tfgone.com.br](https://tfgone.com.br)
+- 📱 **WhatsApp:** [+55 15 99135-3765](https://wa.me/5515991353765)
+
+---
+
+<p align="center">
+  <strong>Powered by TFG ONE</strong> 🚀
+</p>
+<p align="center">
+  Full Stack Development | GenAI | Automation | Web3
+</p>
+<p align="center">
+  <a href="https://tfgone.com.br">Website</a> •
+  <a href="https://linkedin.com/in/thiago-gualberto-8210b630">LinkedIn</a> •
+  <a href="mailto:thiago.f.gualberto@gmail.com">Email</a>
+</p>
+<p align="center">
+  Boituva/SP - Brazil 🇧🇷
+</p>
+
+---
+*This profile is part of the TFG ONE ecosystem, in strategic partnership with DevClub.*
