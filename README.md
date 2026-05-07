@@ -6,8 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Gualberto-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-gualberto-8210b630)
 [![Website](https://img.shields.io/badge/Website-tfgone.com.br-00C7B7?style=flat&logo=netlify&logoColor=white)](https://tfgone.com.br)
-[![Email](https://img.shields.io/badge/Email-thiago.f.gualberto@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiago.f.gualberto@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2015%2099135--3765-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5515991353765)
+[![Instagram](https://img.shields.io/badge/Instagram-%40thiagogual-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thiagogual/)
 
 ---
 
@@ -87,10 +86,9 @@ Instagram data extraction tool for market research, lead generation, and competi
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** thiago.f.gualberto@gmail.com
+- 📸 **Instagram:** [@thiagogual](https://www.instagram.com/thiagogual/)
 - 💼 **LinkedIn:** [linkedin.com/in/thiago-gualberto-8210b630](https://linkedin.com/in/thiago-gualberto-8210b630)
 - 🌐 **Website:** [tfgone.com.br](https://tfgone.com.br)
-- 📱 **WhatsApp:** [+55 15 99135-3765](https://wa.me/5515991353765)
 
 ---
 
@@ -103,7 +101,7 @@ Instagram data extraction tool for market research, lead generation, and competi
 <p align="center">
   <a href="https://tfgone.com.br">Website</a> •
   <a href="https://linkedin.com/in/thiago-gualberto-8210b630">LinkedIn</a> •
-  <a href="mailto:thiago.f.gualberto@gmail.com">Email</a>
+  <a href="https://www.instagram.com/thiagogual/">Instagram</a>
 </p>
 <p align="center">
   Boituva/SP - Brazil 🇧🇷
